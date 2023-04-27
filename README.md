@@ -6,8 +6,7 @@
 - 💞️ I’m looking to collaborate on ...
 
 
-< div>
-<a href ="https://github.com/Elin157">
+< div><a href ="https://github.com/Elin157">
 <img height= "180em" src= "https://github-readme-stats.vercel.app/api?username=Elin157&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 <img height= "180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Elin157&layout=compact%langs_count=16&theme=transparent"/></div>
 
