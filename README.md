@@ -15,7 +15,7 @@
 ##
 
 - 📫 How to reach me
-- 
+
 <div>
 <a href="https://www.linkedin.com/in/wesley-carvalho-9823881ba/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" target="_blank"></a>
 <a href="mailto:wesleycarvalhoptb@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
